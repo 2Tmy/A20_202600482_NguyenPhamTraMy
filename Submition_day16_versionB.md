@@ -94,8 +94,6 @@ Why competitors cannot easily replicate this:
 
 ## 6. Initial TAM / SAM / SOM view
 
-## 6. Initial TAM / SAM / SOM view
-
 | Layer | Estimate | Key assumptions | Confidence |
 |---|---|---|---|
 | TAM | Medium (global debate + public speaking learners) | Bao gồm sinh viên tham gia debate competition, CLB debate, và các nhóm luyện public speaking có format tranh luận | low |
